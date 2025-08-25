@@ -272,7 +272,7 @@ createButton("Pet Leveler", "https://raw.githubusercontent.com/GrowAGardenHax/ga
 local footer = Instance.new("TextLabel", main)
 footer.Size = UDim2.new(1, 0, 0, 22)
 footer.Position = UDim2.new(0, 0, 1, -22)
-footer.Text = "tiktok: @dellingerscripts"
+footer.Text = "tiktok: @dellinger.scripts"
 footer.Font = Enum.Font.GothamSemibold
 footer.TextSize = 13
 footer.TextColor3 = Color3.fromRGB(180, 180, 180)
